@@ -12,6 +12,7 @@ body {
   background: url("background.jpg")
     no-repeat center center;
   background-size: cover;
+  opacity:0.5;
   overflow: hidden;
 }
 
