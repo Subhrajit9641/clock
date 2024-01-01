@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("E:\Untitled design.jpg")
+  background: url("background.jpg")
     no-repeat center center;
   background-size: cover;
   overflow: hidden;
